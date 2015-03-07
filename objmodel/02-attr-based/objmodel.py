@@ -83,7 +83,7 @@ class Class(Base):
                 return cls._fields[methname]
         return MISSING
 
-# set up the base hierarchy like in Python (the ObjVLisp model)
+# set up the base hierarchy as in Python (the ObjVLisp model)
 # the ultimate base class is OBJECT
 OBJECT = Class(name="object", base_class=None, fields={}, metaclass=None)
 # TYPE is a subclass of OBJECT
