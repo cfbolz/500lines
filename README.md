@@ -12,6 +12,14 @@ Creative Commons - Attribution license, and all code by the MIT License: please
 see the [license description](LICENSE.md) for details.  In addition, all
 royalties from paid-for versions will all go to Amnesty International.
 
+The production of this book has been made possible by the financial support of
+[PagerDuty](http://www.pagerduty.com/company/work-with-us/).
+
+<p align="center">
+    <img src="https://github.com/aosabook/500lines/raw/master/resource/pagerduty_logo.png" alt="PagerDuty Logo" />
+</p>
+
+
 Mission
 -------
 
@@ -75,6 +83,15 @@ Contributors
     <td><a href="https://github.com/MichaelDiBernardo">MichaelDiBernardo</a></td>
     <td>mikedebo@gmail.com</td>
   </tr>
+   <tr>
+    <td>Amy Brown</td>
+    <td>indie</td>
+    <td>editorial</td>
+    <td><ul><li><a href="http://www.amyrbrown.ca/">amyrbrown.ca</a></li>
+        <li><a href="http://www.twitter.com/amyrbrown">@amyrbrown</a></li></ul></td>
+    <td><a href="https://github.com/amyrbrown">amyrbrown</a></td>
+    <td>amy@amyrbrown.ca</td>
+  </tr>
   <tr>
     <td>Dustin Mitchell</td>
     <td>Mozilla</td>
@@ -121,7 +138,7 @@ Contributors
   </tr>
   <tr>
     <td>Taavi Burns</td>
-    <td>Points.com</td>
+    <td>Previously at Points, now at PagerDuty</td>
     <td>data-store</td>
     <td>
         <ul>
@@ -129,7 +146,7 @@ Contributors
         </ul>
     </td>
     <td><a href="https://github.com/taavi">taavi</a></td>
-    <td>taavi.burns@points.com</td>
+    <td>taavi.burns@gmail.com</td>
   </tr>
   <tr>
     <td>Guido van Rossum</td>
@@ -142,6 +159,18 @@ Contributors
     </td>
     <td><a href="https://github.com/gvanrossum">gvanrossum</a></td>
     <td>guido@python.org</td>
+  </tr>
+  <tr>
+    <td>A. Jesse Jiryu Davis</td>
+    <td>MongoDB</td>
+    <td>crawler</td>
+    <td>
+        <ul>
+            <li><a href="https://twitter.com/jessejiryudavis">@jessejiryudavis</a></li>
+        </ul>
+    </td>
+    <td><a href="https://github.com/ajdavis">ajdavis</a></td>
+    <td>jesse@emptysquare.net</td>
   </tr>
   <tr>
     <td>Erick Dransch</td>
@@ -260,6 +289,7 @@ Contributors
     <td>Pedometer</td>
     <td>
         <ul>
+            <li><a href="http://www.dessydaskalov.com/">www.dessydaskalov.com</a></li>
             <li><a href="https://twitter.com/dess_e">@dess_e</a></li>
         </ul>
     </td>
@@ -278,5 +308,55 @@ Contributors
     </td>
     <td><a href="https://github.com/cfbolz">cfbolz</a></td>
     <td>cfbolz@gmx.de</td>
+  </tr>
+  <tr>
+    <td>Jessica Hamrick</td>
+    <td>University of California, Berkeley</td>
+    <td>sampler</td>
+    <td>
+        <ul>
+            <li><a href="http://www.jesshamrick.com">www.jesshamrick.com</a></li>
+            <li><a href="https://twitter.com/jhamrick">@jhamrick</a></li>
+        </ul>
+    </td>
+    <td><a href="https://github.com/jhamrick">jhamrick</a></td>
+    <td>jhamrick@berkeley.edu</td>
+  </tr>
+  <tr>
+    <td>Allison Kaptur</td>
+    <td>Hacker School</td>
+    <td>byterun</td>
+    <td>@akaptur</td>
+    <td>@akaptur</td>
+    <td>allison.kaptur@gmail.com</td>
+  </tr>
+  <tr>
+    <td>Daniel Rocco</td>
+    <td>BrightLink Technology</td>
+    <td>contingent</td>
+    <td>@drocco007</td>
+    <td>drocco007</td>
+    <td>drocco@gmail.com</td>
+  </tr>
+  <tr>
+    <td>Brandon Rhodes</td>
+    <td>Dropbox</td>
+    <td>contingent</td>
+    <td>@brandon_rhodes</td>
+    <td>brandon-rhodes</td>
+    <td>brandon@rhodesmill.org</td>
+  </tr>
+    <tr>
+    <td>Dann Toliver</td>
+    <td>Bento Box</td>
+    <td>dagoba</td>
+    <td>
+        <ul>
+            <li><a href="http://danntoliver.com">danntoliver.com</a></li>
+            <li><a href="https://twitter.com/dann">@dann</a></li>
+        </ul>
+    </td>
+    <td><a href="https://github.com/dxnn">dxnn</a></td>
+    <td>aosa@mrmuster.com</td>
   </tr>
 </table>
